@@ -117,13 +117,13 @@ OU
   
   Pastas:
   
-  .streamlit
-  dados
+  .streamlit,
+  dados,
   modelo
   
   Arquivos:
   
-  app.py
+  app.py,
   requirements.txt
   
 
