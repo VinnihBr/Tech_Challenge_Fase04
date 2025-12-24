@@ -108,7 +108,26 @@ Clonar o Repositório
 - Abra o Terminal do VS Code (`Ctrl + ``) e execute:
 
 git clone https://github.com/VinnihBr/Tech_Challenge_Fase04.git
+
 cd Tech_Challenge_Fase04
+
+OU
+
+- Baixar os arquivos em sua maquina:
+  
+  Pastas:
+  
+  .streamlit
+  dados
+  modelo
+  
+  Arquivos:
+  
+  app.py
+  requirements.txt
+  
+
+Dentro do VS Code:
 
 Criar e Ativar Ambiente Virtual (Recomendado)
 Windows
