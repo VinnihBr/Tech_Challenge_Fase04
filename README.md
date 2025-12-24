@@ -156,6 +156,8 @@ http://localhost:8501
 
 E agora usar a aplicação.
 
+Aplicação no Streamlit Cloud: https://tech-challenge-fase04-simulador-obesidade.streamlit.app/
+
 ## Autores
 
 Vinicius Dias, Bruno de Andrade e João Pedro
