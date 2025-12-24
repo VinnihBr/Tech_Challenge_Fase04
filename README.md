@@ -125,6 +125,8 @@ OU
   
   app.py,
   requirements.txt
+
+  Colocar todos os arquivos dentro de uma pasta para facilitar dentro do VS Code.
   
 
 Dentro do VS Code:
