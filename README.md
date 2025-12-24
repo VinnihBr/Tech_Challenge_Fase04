@@ -107,8 +107,8 @@ Clonar o Repositório
 
 - Abra o Terminal do VS Code (`Ctrl + ``) e execute:
 
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/VinnihBr/Tech_Challenge_Fase04.git
+cd Tech_Challenge_Fase04
 
 Criar e Ativar Ambiente Virtual (Recomendado)
 Windows
