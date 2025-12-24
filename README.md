@@ -87,7 +87,7 @@ Estratégias eficazes devem focar no controle calórico global e mudança de há
 
 Como configurar o ambiente e executar a aplicação Streamlit localmente utilizando o Visual Studio Code.
 
-Pré-requisitos
+- Pré-requisitos
 
 Antes de iniciar, certifique-se de ter instalado:
 
@@ -99,13 +99,13 @@ https://code.visualstudio.com/
 
 Extensão Python no VS Code (Microsoft)
 
-Para verificar a versão do Python:
+- Para verificar a versão do Python:
 
 python --version
 
 Clonar o Repositório
 
-Abra o Terminal do VS Code (`Ctrl + ``) e execute:
+- Abra o Terminal do VS Code (`Ctrl + ``) e execute:
 
 git clone https://github.com/seu-usuario/seu-repositorio.git
 cd seu-repositorio
@@ -119,23 +119,22 @@ macOS / Linux
 python3 -m venv venv
 source venv/bin/activate
 
-
 Após ativar, o nome do ambiente (venv) deve aparecer no terminal.
 
 Instalar as Dependências
 
-Com o ambiente virtual ativo:
+- Com o ambiente virtual ativo:
 
 pip install --upgrade pip
 pip install -r requirements.txt
 
-Configurar o Python no VS Code
+- Configurar o Python no VS Code
 
 Pressione Ctrl + Shift + P
 
 Selecione Python: Select Interpreter
 
-Escolha o interpretador do ambiente virtual:
+- Escolha o interpretador do ambiente virtual:
 
 venv\Scripts\python.exe (Windows)
 
@@ -143,11 +142,11 @@ venv/bin/python (macOS/Linux)
 
 Executar a Aplicação Streamlit
 
-No terminal do VS Code:
+- No terminal do VS Code:
 
 streamlit run app.py
 
-Após executar o comando:
+- Após executar o comando:
 
 O Streamlit iniciará um servidor local
 
